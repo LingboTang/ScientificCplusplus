@@ -1,0 +1,25 @@
+Experimental Data
+
+Trial 1
+Performed January 1, 2009
+Sample A (Calcium)
+Resistivity measuresments [nOhm.m]
+{ 35.0955, 34.9091, 34.9141, 33.7726, 34.0036, 34.8873, 34.0472, 34.0721, 34.7659 }
+
+Trial 3
+Performed January 3, 2009
+Sample B (Aluminum)
+Resistivity measuresments [nOhm.m]
+{ 26.8236, 27.6856, 27.5125 }
+
+Trial 4
+Performed January 5, 2009
+Sample C (Copper)
+Resistivity measuresments [nOhm.m]
+{ 17.2129, 16.9788, 17.3357, 16.9713, 17.3474 }
+
+Trial 5
+Performed January 6, 2009
+Sample D (Silver)
+Resistivity measuresments [nOhm.m]
+{ 15.9758, 16.2953, 16.5251, 15.9319, 16.6485, 16.3205 }
